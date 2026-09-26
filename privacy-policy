@@ -20,11 +20,7 @@ Users are responsible for maintaining the security of their device and the infor
 
 ## Fasting and Feast-Day Calendar
 
-WR Prayer Book provides a fasting and feast-day calendar using information sourced from the Orthodox West website. ([https://www.orthodoxwest.com/](https://www.orthodoxwest.com/))
-
-The app may connect to Orthodox West over the internet to retrieve or display calendar information. These requests are separate from the confession journal. Confession journal entries are not included in these requests or shared with Orthodox West.
-
-As with ordinary internet connections, the server providing calendar information may receive technical information associated with a request, such as an IP address and standard network information.
+WR Prayer Book provides a fasting and feast-day calendar using publicly available information retrieved from the Orthodox West website. The app accesses publicly available pages on Orthodox West to obtain calendar information. ([https://www.orthodoxwest.com/](https://www.orthodoxwest.com/))
 
 ## Analytics, Advertising, and Tracking
 
